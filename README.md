@@ -1,2 +1,2 @@
 # Ejercicio_2
-Desarrollo de aprendizaje
+Desarrollo de aprendizaje actualización
